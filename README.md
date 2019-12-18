@@ -3,7 +3,7 @@
 #### Cloning Down Your Repository
 
 If you've completed the steps in the Setting Up a New Site lesson, clone down
-your existing exceptional-realty repository by do the following:
+your existing exceptional-realty repository:
 
 * Open the Learn IDE, and in the terminal, type
 
